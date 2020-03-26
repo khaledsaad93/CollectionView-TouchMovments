@@ -4,4 +4,6 @@ Can you rearrange your collectionView by holding for cell and move anywhere you 
 
 
 
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+<img src="https://media.giphy.com/media/XzY48sulpjSxgO305q/giphy.gif" width="40" height="40" />
+
+
