@@ -1,5 +1,6 @@
 # CollectionView-TouchMovments
 Can you rearrange your collectionView by holding for cell and move anywhere you want 😊
 
-![](https://imgur.com/dcRDKOi.gif)
 
+
+![Farmers Market Finder Demo](https://imgur.com/dcRDKOi.gif)
