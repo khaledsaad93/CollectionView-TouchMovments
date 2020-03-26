@@ -1,4 +1,5 @@
 # CollectionView-TouchMovments
 Can you rearrange your collectionView by holding for cell and move anywhere you want 😊
 
-https://gfycat.com/regalnarrowfruitfly
+
+<img src="https://gfycat.com/regalnarrowfruitfly" width="40" height="40" />
